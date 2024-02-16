@@ -1,0 +1,69 @@
+.h1 {
+    font-family: serif;
+    font-weight: 100;
+}
+
+.h2 {
+    font-family: monospace  ;
+    font-size: 40px;
+    margin: -20px;
+}
+
+.h3 {
+    font-family: serif;
+    font-weight: 100;
+}
+
+.hr1 {
+    border: 1px solid black;
+    width: 900px;
+}
+
+.home {
+    color: black;
+    margin: 70px;
+}
+
+.forsale {
+    color: black;
+    margin: 70px;
+}
+
+.repairs {
+    color: black;
+    margin: 70px;
+}
+
+.about {
+    color: black;
+    margin: 70px;
+}
+
+.contact {
+    color: black;
+    margin: 70px;
+}
+
+.hr2 {
+    border: 1px solid black;
+    width: 900px;
+}
+
+nav {
+    padding: 20px 20px;
+}
+
+.p1 {
+    font-family: serif;
+    font-weight: 60px;
+}
+ .hr3 {
+    border: 1px solid black;
+    width: 800px;
+
+ }
+
+ .hr4 {
+    border: 1px solid black;
+    width: 800px;
+ }
